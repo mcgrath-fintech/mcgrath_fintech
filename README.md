@@ -13,6 +13,9 @@ A portfolio and sandbox for practical analytics across:
 
 Building an AE toolkit (Snowflake + dbt) on top of BA experience. Projects focus on real pain points and shippable tools, not just experiments.
 
+## 👔 Currently
+Business Analyst — Data Governance at Lincoln Financial Group. Daily work: SQL analysis, MDM (Reltio), data quality, Python automation, and stakeholder handoffs across governance and engineering teams.
+
 ---
 
 ## 🚀 Featured Project: FinOps for Snowflake + dbt (Starter)
@@ -34,7 +37,7 @@ Clean, reproducible pipeline using only origination-time features to predict cha
 
 ### SME Risk Tracker – Japan
 
-Power BI dashboard exploring zombie-risk signals across Japan’s regional banks (synthetic data inspired by BOJ/FSA reporting).
+Power BI dashboard exploring zombie-risk signals across Japan's regional banks (synthetic data inspired by BOJ/FSA reporting).
 
 📁 [japan-sme-risk](https://github.com/mcgrath-dylan/japan-sme-risk)
 
@@ -46,11 +49,11 @@ Power BI dashboard exploring zombie-risk signals across Japan’s regional banks
 * **dbt Fundamentals (dbt Labs)** — models, tests, docs, lineage
 * **Machine Learning in Production** — DeepLearning.AI/Coursera (audit)
 * **FinTech Foundations and Overview** — HKUST/Coursera (audit)
-* JLPT **N3-level** Japanese (actively improving)
+* JLPT **N2-level** Japanese — studying toward N2 exam (December 2026)
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 - **Email:** mcgrath.fintech@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/dylanjamesmcgrath/  
